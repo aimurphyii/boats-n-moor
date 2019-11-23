@@ -22,6 +22,25 @@
   background-color: #09d3ab88;
 }
 
+.searchBox{
+  background-color: #09d3ab88;
+  max-width: 40%;
+}
+
 .App-link {
   color: #09d3ac;
+}
+
+form {
+
+  display:flex;
+  flex-direction:column;
+  margin-right: 2em;
+
+}
+
+label {
+  display: flex;
+  flex-direction:column;
+  margin-bottom: 1em;
 }
